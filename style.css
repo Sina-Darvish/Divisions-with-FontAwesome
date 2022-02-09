@@ -1,0 +1,25 @@
+.main {
+  background-color: #e9e9e9;
+  text-align: center;
+}
+.box {
+  display: inline-block;
+  width: 350px;
+  height: 250px;
+  margin: 30px;
+  border-radius: 20px;
+}
+.green {
+  background-color: #39a638;
+}
+.red {
+  background-color: #c32553;
+}
+.blue {
+  background-color: #2d7f8c;
+}
+i {
+  color: white;
+  font-size: 70px !important;
+  margin-top: 25%;
+}
